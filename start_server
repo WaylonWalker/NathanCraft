@@ -1,0 +1,10 @@
+#! /bin/bash
+/usr/bin/tmux new-session -d -s nathan
+/usr/bin/tmux send-keys -t nathan "cd /root/git/Nathan/" C-m
+# /usr/bin/tmux send-keys -t nathan "git pull" C-m
+/usr/bin/tmux send-keys -t nathan "bash start_server.sh" C-m
+
+/usr/bin/tmux split-window -v
+/usr/bin/tmux send-keys -t nathan "htop" C-m 
+/usr/bin/tmux rotate-window -D
+

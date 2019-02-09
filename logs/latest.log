@@ -1,0 +1,55 @@
+[02:52:02] [Server thread/INFO]: quadmx08 lost connection: Disconnected
+[02:52:02] [Server thread/INFO]: quadmx08 left the game
+[10:58:33] [Server thread/INFO]: WyattBubbyLee lost connection: Timed out
+[10:58:33] [Server thread/INFO]: WyattBubbyLee left the game
+[13:36:42] [User Authenticator #15/INFO]: UUID of player WyattBubbyLee is c583ebee-7e18-4260-8361-c5b0265b072a
+[13:36:42] [Server thread/INFO]: WyattBubbyLee[/98.214.137.148:58924] logged in with entity id 777057 at (-256.4328060944931, 75.0, 236.17879510734375)
+[13:36:42] [Server thread/INFO]: WyattBubbyLee joined the game
+[13:37:55] [Server thread/INFO]: WyattBubbyLee was shot by Skeleton
+[13:37:56] [Server thread/WARN]: WyattBubbyLee moved too quickly! -1.7465869943598022,2.0999984741210938,28.341525270204926
+[13:38:54] [User Authenticator #16/INFO]: UUID of player quadmx08 is bf32c3ec-ecdc-42ee-be83-dcec4c1ea438
+[13:38:54] [Server thread/INFO]: quadmx08[/98.214.137.148:53329] logged in with entity id 779180 at (-255.55697929807394, 68.0, 258.1572253409148)
+[13:38:54] [Server thread/INFO]: quadmx08 joined the game
+[13:43:45] [Server thread/INFO]: Gave 999 [Coal] to quadmx08
+[13:46:27] [Server thread/INFO]: WyattBubbyLee was shot by Skeleton
+[13:46:29] [Server thread/WARN]: WyattBubbyLee moved too quickly! 9.720812315887201,-2.0,-20.463535555209774
+[14:00:40] [Server thread/INFO]: quadmx08 lost connection: Disconnected
+[14:00:40] [Server thread/INFO]: quadmx08 left the game
+[14:01:26] [Server thread/INFO]: WyattBubbyLee lost connection: Disconnected
+[14:01:26] [Server thread/INFO]: WyattBubbyLee left the game
+[14:01:40] [User Authenticator #17/INFO]: UUID of player quadmx08 is bf32c3ec-ecdc-42ee-be83-dcec4c1ea438
+[14:01:40] [Server thread/INFO]: quadmx08[/98.214.137.148:53378] logged in with entity id 806738 at (-78.03177948068976, 71.0, -4.686547745145367)
+[14:01:40] [Server thread/INFO]: quadmx08 joined the game
+[14:01:48] [User Authenticator #18/INFO]: UUID of player WyattBubbyLee is c583ebee-7e18-4260-8361-c5b0265b072a
+[14:01:48] [Server thread/INFO]: WyattBubbyLee[/98.214.137.148:58940] logged in with entity id 806885 at (-268.07427286181394, 64.0, 265.2001635173584)
+[14:01:48] [Server thread/INFO]: WyattBubbyLee joined the game
+[14:02:38] [Server thread/INFO]: WyattBubbyLee was slain by Zombie Pigman
+[14:03:27] [Server thread/INFO]: quadmx08 fell from a high place
+[14:03:42] [Server thread/INFO]: Unknown command
+[14:03:42] [Server thread/INFO]: /give @a arrow 128<--[HERE]
+[14:03:50] [Server thread/INFO]: Gave 128 [Arrow] to 2
+[14:25:05] [Server thread/INFO]: Unknown item 'minecraft:seed'
+[14:25:05] [Server thread/INFO]: ... quadmx08 seed 64<--[HERE]
+[14:25:37] [Server thread/INFO]: Unknown item 'minecraft:seeds'
+[14:25:37] [Server thread/INFO]: ... quadmx08 seeds 64<--[HERE]
+[14:26:07] [Server thread/INFO]: Unknown item 'minecraft:wheat_seed'
+[14:26:07] [Server thread/INFO]: ... quadmx08 wheat_seed 64<--[HERE]
+[14:26:20] [Server thread/INFO]: Gave 64 [Wheat Seeds] to quadmx08
+[14:26:35] [Server thread/INFO]: Gave 64 [Beetroot Seeds] to quadmx08
+[14:30:41] [Server thread/INFO]: quadmx08 lost connection: Disconnected
+[14:30:41] [Server thread/INFO]: quadmx08 left the game
+[14:31:09] [User Authenticator #19/INFO]: UUID of player quadmx08 is bf32c3ec-ecdc-42ee-be83-dcec4c1ea438
+[14:31:09] [Server thread/INFO]: quadmx08[/98.214.137.148:53763] logged in with entity id 849045 at (-195.2341588360358, 62.9375, 300.5861628397171)
+[14:31:09] [Server thread/INFO]: quadmx08 joined the game
+[14:31:51] [Server thread/INFO]: Gave 64 [Wheat Seeds] to quadmx08
+[14:35:41] [Server thread/INFO]: quadmx08 has made the advancement [The Parrots and the Bats]
+[14:37:05] [Server thread/INFO]: Gave 12 [Hopper] to quadmx08
+[14:40:07] [Server thread/INFO]: Gave 32 [Egg] to quadmx08
+[14:40:07] [Server thread/INFO]: Unknown command
+[14:40:07] [Server thread/INFO]: <--[HERE]
+[14:44:06] [Server thread/INFO]: WyattBubbyLee was killed by Witch using magic
+[14:44:08] [Server thread/WARN]: WyattBubbyLee moved too quickly! -5.800000011920929,9.099998474121094,-11.927815677385524
+[14:44:23] [Server thread/INFO]: quadmx08 lost connection: Disconnected
+[14:44:23] [Server thread/INFO]: quadmx08 left the game
+[15:13:45] [Server thread/INFO]: WyattBubbyLee lost connection: Disconnected
+[15:13:45] [Server thread/INFO]: WyattBubbyLee left the game
